@@ -1,0 +1,2 @@
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\x64\Debug\DocumentLayoutAnalysis.exe
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\x64\Debug\DocumentLayoutAnalysis.pdb

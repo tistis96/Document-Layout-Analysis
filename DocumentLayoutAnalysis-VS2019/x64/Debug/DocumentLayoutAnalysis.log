@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(34,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(77,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(306,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(306,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(733,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(734,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(740,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(741,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(761,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(762,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(867,29): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\Main.cpp(889,28): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  DocumentLayoutAnalysis.vcxproj -> C:\Users\kradu\Desktop\ACI\aplicatie\DocumentLayoutAnalysis\x64\Debug\DocumentLayoutAnalysis.exe
